@@ -1,0 +1,59 @@
+
+.counter__container
+{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    
+    
+}
+.counter__container h1 
+{
+    font-size: 40px;
+    
+}
+.counter__container button
+{
+
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+.counter
+{
+    background-color: aquamarine;
+    width: 800px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.random
+{
+    background-color: aquamarine;
+    width: 800px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+#inpBx
+{
+    width: 350px;
+    height: 30px;
+    margin-right: 20px;
+}
+#btn
+{
+    width: 100px;
+    height: 35px;
+}
+
+
